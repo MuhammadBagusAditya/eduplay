@@ -14,8 +14,9 @@ Eduplay adalah sebuah platform belajar digital yang dikembangkan untuk memberika
 Di folder root, terdapat beberapa scripts yang berisikan perintah untuk menjalankan aplikasi secara otomatis. Apabila tidak bisa digunakan, silahkan menginstall dan menjalankan secara manual
 
 1. npm-install: menginstall semua dependensi front-end
-2. frontend-start: menjalankan web front-end
-3. backend-start: menjalankan web back-end
+2. frontend-start: menjalankan web front-end (tidak perlu npm install)
+3. frontend-dev: menjalankan web front-end secara dev mode (perlu npm install)
+4. backend-start: menjalankan web back-end
 
 ## Routes
 

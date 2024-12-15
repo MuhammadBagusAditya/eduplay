@@ -1,1 +1,1 @@
-cd front-end && npm run dev
+cd front-end && npm run preview
