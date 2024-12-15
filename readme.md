@@ -13,9 +13,9 @@ Eduplay adalah sebuah platform belajar digital yang dikembangkan untuk memberika
 
 ### Auto
 
-1. run npm-install.cmd dan frontend-dev.cmd (jika ingin dev mode)
-2. run frontend-start.cmd (untuk production mode)
-3. run backend-start.cmd (untuk menjalankan backend)
+1. double click atau jalankan npm-install.cmd dan frontend-dev.cmd (jika ingin dev mode)
+2. double click atau jalankan frontend-start.cmd (untuk production mode)
+3. double click atau jalankan backend-start.cmd (untuk menjalankan backend)
 
 Note: Terkadang di production mode terdapat error yang belum diketahui, jadi kami lebih menyarankan untuk menggunakan dev mode
 
