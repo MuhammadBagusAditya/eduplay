@@ -17,7 +17,7 @@ Eduplay adalah sebuah platform belajar digital yang dikembangkan untuk memberika
 2. double click atau jalankan frontend-start.cmd (untuk production mode)
 3. double click atau jalankan backend-start.cmd (untuk menjalankan backend)
 
-Note: Terkadang di production mode terdapat error yang belum diketahui, jadi kami lebih menyarankan untuk menggunakan dev mode
+Note: Mungkin di production mode terdapat error yang belum diketahui, jadi kami lebih menyarankan untuk menggunakan dev mode
 
 ## Scripts
 
