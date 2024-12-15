@@ -4,10 +4,20 @@ Eduplay adalah sebuah platform belajar digital yang dikembangkan untuk memberika
 
 ## Installation
 
+### Manual
+
 1. git clone repositori ini
 2. jalankan "npm install" di folder frontend, kemudian jalankan "npm run dev" atau "yarn dev"
 3. jalankan ".\pocketbase serve" di folder backend atau command sejenisnya untuk memanggil file exe dan mengirim argument serve
-4. secara default, aplikasi frontend akan dijalankan di http://localhost:5173 dan aplikasi backend akan dijalankan di http://localhost:8090/
+4. secara default, aplikasi frontend akan dijalankan di http://localhost:5173 (dev), http://localhost:4173 (start) dan aplikasi backend akan dijalankan di http://localhost:8090/
+
+## Auto
+
+1. run npm-install.cmd dan frontend-dev.cmd (jika ingin dev mode)
+2. run frontend-start.cmd (untuk production mode)
+3. run backend-start.cmd (untuk menjalankan backend)
+
+Note: Terkadang di production mode terdapat error yang belum diketahui, jadi kami lebih menyarankan untuk menggunakan dev mode
 
 ## Scripts
 

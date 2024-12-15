@@ -1,0 +1,1 @@
+import{j as c,E as s,k as i,l as r,m as h,o as m,q as p}from"./runtime.Bp4x7A-a.js";function l(o,t,f){r&&h();var n=o,a,e;c(()=>{a!==(a=t())&&(e&&(m(e),e=null),a&&(e=i(()=>f(n,a))))},s),r&&(n=p)}export{l as c};
